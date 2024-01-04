@@ -140,15 +140,88 @@
 
 ---
 
-**(b.)**
+**(b.)Stay in the same directory and move *“file0”* to directory *a***
 
+![6 b](pic/6_b.jpg)
 
+---
 
+***7.***
+---
+**( a.) Go to your home directory**
 
+![7 a](pic/7_a.jpg)
 
+---
 
+**( b.) Create a file named *“test”* in the directory *a/b/c/d***
 
+![7 b](pic/7_b.jpg)
 
+---
 
+**( c.) Stay in the home directory. Find and display the path of *“test”***
 
+![7 c](pic/7_c.jpg)
 
+---
+
+***8.***
+---
+**( a.) Go to directory *a*. Get the man page of grep and save its contents to a file named *“grepman.txt”***
+
+![8 a](pic/8_a.jpg)
+
+![8 a](pic/8_a1.png)
+
+---
+
+**( b.) Print the lines containing the word *“FILE”* (Case sensitive) in the file *“grepman.txt”***
+
+![8 b](pic/8_b.jpg)
+
+---
+
+***9.***
+---
+**( a.) Go to directory *a* and remove the directory *b* with a single command**
+
+![9 a](pic/9_a.jpg)
+
+---
+
+**(b.) Remove the files starting with the word *“file”* with a single**
+
+![9 b](pic/9_b.jpg)
+
+![9 b](pic/9_b1.jpg)
+
+---
+
+***10.***
+---
+**( a.) Go to https://blog.bi0s.in/  and download the *logo.png* image using `wget`**
+
+![10 a](pic/10_a1.jpg)
+
+![10 a](pic/10_a2.jpg)
+
+![10 a](<pic/10 a logo.png>)
+
+---
+
+**(b.) Do the same with python script (Hint : request library)**
+
+![10 b](pic/10_b1.jpg)
+
+![10 b](pic/10_b2.jpg)
+
+![10 b](<pic/10 b biospy.jpg>)
+
+---
+
+**(c.) Also, display the metadata of the png.**
+
+![10 c](pic/10_c.jpg)
+
+---
