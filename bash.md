@@ -225,3 +225,29 @@
 ![10 c](pic/10_c.jpg)
 
 ---
+
+***11.***
+---
+**( a.) Use `traceroute` on *google.com* and find list of the IP addresses and hostnames between you and  *google.com***
+
+![11 a](pic/11_a.jpg)
+
+---
+
+**( b.) Find  Subdomains, ip addresses of *google.com* using `nslookup` command**
+
+![11 b](pic/11_b.jpg)
+
+---
+
+***12.***
+---
+**Start a web server on *port 8080* with python command (In any directory and access the files in web browser )**
+
+![12](pic/12_1.jpg)
+
+![12](pic/12_2.jpg)
+
+![12](pic/12_3.jpg)
+
+---
