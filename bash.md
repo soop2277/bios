@@ -251,3 +251,11 @@
 ![12](pic/12_3.jpg)
 
 ---
+
+***13.***
+---
+**( a.) Learn about nmap and use that scanner to scan your own machine**
+
+![13 a](13_a.jpg)
+
+---
